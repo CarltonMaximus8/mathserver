@@ -30,6 +30,10 @@ Publish the website in the given URL.
 
 # PROGRAM :
 # SERVER SIDE PROCESSING:
+<img width="1113" height="329" alt="image" src="https://github.com/user-attachments/assets/38c9c792-de54-4ed4-9f51-7c7c48410577" />
+
 # HOMEPAGE:
+<img width="1906" height="1017" alt="Screenshot 2025-12-19 125020" src="https://github.com/user-attachments/assets/c5541d89-abdc-432a-b191-2b4a5c3f6e41" />
+
 # RESULT:
 The program for performing server side processing is completed successfully.
